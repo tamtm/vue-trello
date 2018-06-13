@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <img src="dist/assets/logo.png">
     <h1>{{ msg }}</h1>
     <p>Powered by <a href="https://github.com/vuejs/vue" target="_blank">Vuejs</a></p>
   </div>
